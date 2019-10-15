@@ -17,3 +17,6 @@
 var a = 1
 console.log(a)
 ```
+我的网站是[百度](https://www.baidu.com)
+
+![一张图片](1.png)
